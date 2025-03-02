@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Jabbar Kakar</h1>
-<h3 align="center">A passionate frontend and backend developer from Pakistan</h3>
+<h3 align="center">A passionate Flutter developer from Pakistan</h3>
 
-- 🌱 I’m currently learning **Flutter**
+- 🌱 Leading **Flutter**
 
 - 📫 How to reach me **jabbarkakar22@gmail.com**
 
